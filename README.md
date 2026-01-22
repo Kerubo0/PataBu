@@ -6,7 +6,7 @@ not knowing when the next bus will come, how much it will cost, or if there’s 
 
 Instead of forcing passengers to download many different apps for different SACCOs, PataBu uses tools everyone already has — USSD and SMS — to deliver real-time transport information
 
-#The Problem
+# The Problem
 Public transport users often face:
   Long waiting times with no updates
   Unclear or changing fares
